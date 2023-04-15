@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stuti Pradhan</h1>
+<h1 align="center">olá 👋, I'm Stuti.</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Web and App development**
